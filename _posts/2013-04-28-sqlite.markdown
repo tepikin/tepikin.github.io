@@ -2,7 +2,7 @@
 layout: post
 title:  "Особенности работы с SQLite."
 tagline:  "Особенности работы с SQLite."
-date:   2016-11-10 17:50:00
+date:   2013-04-28 17:50:00
 categories: main
 ---
 
