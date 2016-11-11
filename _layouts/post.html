@@ -9,6 +9,8 @@ layout: default
 
 
 {% if page.share_buttons %}
+<br>
+<hr/>
 <ul class="share-buttons">
   <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftepikin.github.io%2F&t=Android%20Dev" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Facebook" src="/images/flat_web_icon_set/color/Facebook.png"></a></li>
   <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Ftepikin.github.io%2F&text=Android%20Dev:%20http%3A%2F%2Ftepikin.github.io%2F" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img alt="Tweet" src="/images/flat_web_icon_set/color/Twitter.png"></a></li>
@@ -24,9 +26,8 @@ layout: default
 </ul>
 {% endif %}
 
-{% if page.vkcomments %}
-    <br>
-    <hr/>
+{% if page.vkcomments %}    
+    
     <h4>Comments</h4>
 	
     <script type="text/javascript">
