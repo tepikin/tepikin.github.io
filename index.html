@@ -8,7 +8,7 @@ title: {{ site.name }}
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-	  <h1><a class="a.title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+	  <h1><a color="#159957" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 	  <span>{{ post.date | date_to_string }}</span>
 	  {{ post.excerpt }}
 	  </li>

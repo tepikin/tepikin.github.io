@@ -15,11 +15,6 @@ a {
   a:hover {
     text-decoration: underline; }
 
-a.title{
-	color: #159957;
-}	
-	
-	
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
