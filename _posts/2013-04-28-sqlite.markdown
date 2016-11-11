@@ -3,7 +3,8 @@ layout: post
 title:  "Android. Особенности работы с SQLite."
 tagline:  "Особенности работы с SQLite."
 date:   2013-04-28 17:50:00
-vkcomments : true
+vkcomments: true
+share_buttons: true
 categories: main
 ---
 
