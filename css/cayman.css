@@ -17,6 +17,7 @@ a {
 
 .post_tile: {
 	color: #159957;}
+a.post_tile,a.post_tile:hover, a.post_tile:active {color: #159957;}
 
 .btn {
   display: inline-block;
