@@ -15,6 +15,9 @@ a {
   a:hover {
     text-decoration: underline; }
 
+.post_tile: {
+	color: #159957;}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
