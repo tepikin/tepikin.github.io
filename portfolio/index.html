@@ -8,7 +8,7 @@ title: {{ site.name }}
   <ul class="posts">
     {% for post in site.categories.portfolio %}      
 	<li>
-	<img src="/portfolio/images/Camly/icon_96.png"  height="1.5em" width="1.5em"><h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+	<h1><img src="/portfolio/images/Camly/icon_96.png"  height="1.5em" width="1.5em"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 	<span>{{ post.date | date_to_string }}</span>
 	{{ post.excerpt }}
 	</li>      
