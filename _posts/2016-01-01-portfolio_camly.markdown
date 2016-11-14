@@ -2,6 +2,7 @@
 layout: post
 title:  "Camly. Фоторедактор"
 date:   2014-04-28 17:50:00
+icon: /portfolio/images/Camly/icon_48.png
 vkcomments: true
 share_buttons: true
 categories: portfolio

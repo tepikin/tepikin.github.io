@@ -9,9 +9,9 @@ title: {{ site.name }}
     {% for post in site.categories.portfolio %}      
 	<h1><li>
 	{% if post.icon %}
-	<img href="{{ post.icon }}" width="48em" height="48em" style="vertical-align: middle; margin-bottom: 0.2em;"/>
+	<img href="{{ site.baseurl }}{{ post.icon }}" width="48em" height="48em" style="vertical-align: middle; margin-bottom: 0.2em;"/>
 	{% endif %}
-	<a href="{{ post.icon }}">{{ post.title }}</a></h1>
+	<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 	<span>{{ post.date | date_to_string }}</span>
 	{{ post.excerpt }}
 	</li>
