@@ -7,6 +7,10 @@ title: {{ site.name }}
 <h4>Проекты</h4>
   <ul class="posts">
    
+   {% assign featuredItems = site.categories.portfolio %}
+
+{% assign featuredItems = featuredItems | sort: "order" %}
+   
     {% for post in site.categories.portfolio %}      
 	<h1><li>
 	{% if post.icon %}

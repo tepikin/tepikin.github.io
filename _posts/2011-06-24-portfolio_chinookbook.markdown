@@ -3,6 +3,7 @@ layout: post
 title:  "Chinook book"
 date:   2011-06-24 00:00:00
 icon: /portfolio/images/ChinookBook/icon_48.png
+order: 10
 vkcomments: true
 share_buttons: true
 categories: portfolio

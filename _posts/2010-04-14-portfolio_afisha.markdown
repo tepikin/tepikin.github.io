@@ -3,6 +3,7 @@ layout: post
 title:  "Afisha.ru"
 date:   2010-04-14 00:00:00
 icon: /portfolio/images/Afisha/icon_48.png
+order: 1
 vkcomments: true
 share_buttons: true
 categories: portfolio
