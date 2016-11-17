@@ -269,3 +269,50 @@ ul.share-buttons .sr-only {
   overflow: hidden;
 }
   
+  
+  
+/*  SECTIONS  */
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0.8% 1% 0.8%;
+}
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+
+/*  GRID OF FOUR  */
+.span_4_of_4 {
+	width: 98.4%;
+}
+.span_3_of_4 {
+	width: 73.4%;
+}
+.span_2_of_4 {
+	width: 48.4%;
+}
+.span_1_of_4 {
+	width: 23.4%;
+}
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 42em) {
+	.col {  margin: 1% 0.8% 1% 0.8%; }
+	.span_1_of_4, .span_2_of_4, .span_3_of_4, .span_4_of_4 { width: 48.4%; }
+}
+@media only screen and (max-width: 21em) {
+	.col {  margin: 1% 0% 1% 0%; }
+	.span_1_of_4, .span_2_of_4, .span_3_of_4, .span_4_of_4 { width: 100%; }
+}
+    
