@@ -13,12 +13,12 @@ categories: portfolio
 
 <p>
 <div>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Instance Jude/1.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Instance Judethumb_1.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Instance Jude/2.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Instance Judethumb_2.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Instance Jude/3.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Instance Judethumb_3.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Instance Jude/4.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Instance Judethumb_4.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Instance Jude/5.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Instance Judethumb_5.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Instance Jude/6.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Instance Judethumb_6.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Instance Jude/1.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Instance Jude/thumb_1.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Instance Jude/2.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Instance Jude/thumb_2.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Instance Jude/3.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Instance Jude/thumb_3.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Instance Jude/4.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Instance Jude/thumb_4.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Instance Jude/5.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Instance Jude/thumb_5.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Instance Jude/6.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Instance Jude/thumb_6.png" alt=""/></a>
 </div>
 </p>
 
