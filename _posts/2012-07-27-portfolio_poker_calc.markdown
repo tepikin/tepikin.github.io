@@ -3,7 +3,7 @@ layout: post
 title:  "Покерный калькулятор"
 date:   2012-07-27 00:00:00
 icon: /portfolio/images/pokerCalculator/icon_48.png
-order: 101
+order: 102
 vkcomments: true
 share_buttons: true
 categories: portfolio
