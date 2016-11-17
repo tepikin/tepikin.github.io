@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Afisha"
+title:  "Afisha.ru"
 date:   2010-04-14 00:00:00
 icon: /portfolio/images/Afisha/icon_48.png
 vkcomments: true
