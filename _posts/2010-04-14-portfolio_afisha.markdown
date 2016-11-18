@@ -13,14 +13,14 @@ categories: portfolio
 
 <p>
 <div>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/1.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_1.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/2.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_2.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/3.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_3.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/4.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_4.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/5.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_5.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/6.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_6.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/7.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_7.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/8.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_8.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/1.png" data-lightbox="example-set" data-title="Afisha.ru"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_1.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/2.png" data-lightbox="example-set" data-title="Afisha.ru"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_2.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/3.png" data-lightbox="example-set" data-title="Afisha.ru"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_3.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/4.png" data-lightbox="example-set" data-title="Afisha.ru"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_4.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/5.png" data-lightbox="example-set" data-title="Afisha.ru"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_5.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/6.png" data-lightbox="example-set" data-title="Afisha.ru"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_6.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/7.png" data-lightbox="example-set" data-title="Afisha.ru"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_7.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Afisha/8.png" data-lightbox="example-set" data-title="Afisha.ru"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Afisha/thumb_8.png" alt=""/></a>
 </div>
 </p>
 

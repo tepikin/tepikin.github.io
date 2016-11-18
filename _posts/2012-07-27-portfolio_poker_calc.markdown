@@ -13,10 +13,10 @@ categories: portfolio
 
 <p>
 <div>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/pokerCalculator/1.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/pokerCalculator/thumb_1.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/pokerCalculator/2.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/pokerCalculator/thumb_2.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/pokerCalculator/3.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/pokerCalculator/thumb_3.png" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/pokerCalculator/4.png" data-lightbox="example-set" data-title="Camly"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/pokerCalculator/thumb_4.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/pokerCalculator/1.png" data-lightbox="example-set" data-title="Покерный калькулятор"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/pokerCalculator/thumb_1.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/pokerCalculator/2.png" data-lightbox="example-set" data-title="Покерный калькулятор"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/pokerCalculator/thumb_2.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/pokerCalculator/3.png" data-lightbox="example-set" data-title="Покерный калькулятор"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/pokerCalculator/thumb_3.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/pokerCalculator/4.png" data-lightbox="example-set" data-title="Покерный калькулятор"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/pokerCalculator/thumb_4.png" alt=""/></a>
 </div>
 </p>
 
