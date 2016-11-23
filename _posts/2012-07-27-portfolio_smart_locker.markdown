@@ -3,7 +3,7 @@ layout: post
 title:  "Smart Locker"
 date:   2012-07-27 00:00:00
 icon: /portfolio/images/SmartLocker/icon_48.png
-order: 100
+order: 101
 vkcomments: true
 share_buttons: true
 categories: portfolio
