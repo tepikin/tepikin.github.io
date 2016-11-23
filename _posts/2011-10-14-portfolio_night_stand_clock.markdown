@@ -3,7 +3,7 @@ layout: post
 title:  "Night Stand Clock"
 date:   2010-04-14 00:00:00
 icon: /portfolio/images/NightStandclock/icon_48.png
-order: 1
+order: 99
 vkcomments: true
 share_buttons: true
 categories: portfolio
