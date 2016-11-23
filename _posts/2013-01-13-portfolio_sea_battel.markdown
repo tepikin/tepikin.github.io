@@ -16,6 +16,7 @@ categories: portfolio
 <a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Морской бой/1.jpg" data-lightbox="example-set" data-title="Морской бой"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Морской бой/thumb_1.jpg" alt=""/></a>
 <a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Морской бой/2.jpg" data-lightbox="example-set" data-title="Морской бой"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Морской бой/thumb_2.jpg" alt=""/></a>
 <a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Морской бой/3.jpg" data-lightbox="example-set" data-title="Морской бой"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Морской бой/thumb_3.jpg" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Морской бой/4.jpg" data-lightbox="example-set" data-title="Морской бой"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Морской бой/thumb_4.jpg" alt=""/></a>
 <a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Морской бой/5.jpg" data-lightbox="example-set" data-title="Морской бой"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Морской бой/thumb_5.jpg" alt=""/></a>
 </div>
 </p>
@@ -26,4 +27,6 @@ categories: portfolio
 
 <!--more-->
 
+<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PGUy4KAbbME" frameborder="0" allowfullscreen></iframe>
+</p>
