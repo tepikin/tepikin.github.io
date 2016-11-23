@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Морской бой"
-date:   2011-06-24 00:00:00
+date:   2013-01-13 00:00:00
 icon: /portfolio/images/Морской бой/icon_48.png
 order: 5
 vkcomments: true

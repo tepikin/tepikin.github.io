@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Night Stand Clock"
-date:   2010-04-14 00:00:00
+date:   2011-10-14 00:00:00
 icon: /portfolio/images/NightStandclock/icon_48.png
 order: 99
 vkcomments: true
