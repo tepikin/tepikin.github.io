@@ -15,8 +15,6 @@ categories: portfolio
 <div>
 <a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/NightStandclock/1.jpg" data-lightbox="example-set" data-title="Night Stand Clock"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/NightStandclock/thumb_1.jpg" alt=""/></a>
 <a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/NightStandclock/2.jpg" data-lightbox="example-set" data-title="Night Stand Clock"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/NightStandclock/thumb_2.jpg" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/NightStandclock/3.jpg" data-lightbox="example-set" data-title="Night Stand Clock"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/NightStandclock/thumb_3.jpg" alt=""/></a>
-<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/NightStandclock/4.jpg" data-lightbox="example-set" data-title="Night Stand Clock"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/NightStandclock/thumb_4.jpg" alt=""/></a>
 </div>
 </p>
 
