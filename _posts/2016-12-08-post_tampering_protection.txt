@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Android. Защита приложений от взлома"
-tagline:  "Особенности работы с SQLite."
+tagline:  "Защита приложений от взлома."
 date:   2016-12-08 00:00:00
 vkcomments: true
 share_buttons: true
