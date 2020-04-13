@@ -20,6 +20,8 @@ categories: portfolio
 <a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Camly/4.png" data-lightbox="example-set" data-title="Camly. Фоторедактор"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Camly/thumb_4.png" alt=""/></a>
 <a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Camly/5.png" data-lightbox="example-set" data-title="Camly. Фоторедактор"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Camly/thumb_5.png" alt=""/></a>
 <a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Camly/6.png" data-lightbox="example-set" data-title="Camly. Фоторедактор"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Camly/thumb_6.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Camly/7.png" data-lightbox="example-set" data-title="Camly. Фоторедактор"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Camly/thumb_7.png" alt=""/></a>
+<a class="example-image-link" href="{{ site.baseurl }}/portfolio/images/Camly/8.png" data-lightbox="example-set" data-title="Camly. Фоторедактор"><img class="example-image" src="{{ site.baseurl }}/portfolio/images/Camly/thumb_8.png" alt=""/></a>
 </div>
 </p>
 
