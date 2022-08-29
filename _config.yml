@@ -1,7 +1,7 @@
 # Setup
 title:        Android Dev
 tagline:      Цикл статей про разработку под Android
-baseurl:      "http://tepikin.github.io"
+baseurl:      "https://tepikin.github.io"
 paginate:     1
 excerpt_separator: <!--more-->
 
